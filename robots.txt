@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wildtrack-community.pages.dev/sitemap.xml
